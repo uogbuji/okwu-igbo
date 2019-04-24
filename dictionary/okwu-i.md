@@ -1,13 +1,13 @@
+# i
 
-
-# icheoku
+## icheoku
 
 parrot
 
 * cite: Echeruo-IED
 * tag: ńnụ̀nụ
 
-# ígù
+## ígù
 
 n.
 
@@ -17,7 +17,7 @@ n.
 * cite: Echeruo-IED
 * tag: ósísí
 
-# íhú
+## íhú
 
 n.
 
@@ -28,4 +28,6 @@ n.
 
 * cite: Echeruo-IED
 * tag: àhụ́
+
+# ị
 

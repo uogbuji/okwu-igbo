@@ -8,10 +8,10 @@
 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
-Owerri Igbo is the focus, but other variants are given where possible. Please note that no politics is intended by the defaulting to Owerri Igbo. It is purely the self-interest of the project's founder, who is from Umunakanu, near Owerri.
+South Central Igbo is the focus, but other variants are given where possible. Please note that no politics is intended by this focus. It is purely the self-interest of the project's founder, who is from Umunakanu, in Mbano. Mbano has a rather unique dialect, so there will be a lot of coverage of Owerri Igbo.
 
 
-Citation sources
+# To do
 
-* Echeruo-IED: [Igbo-English dictionary, Professor Michael J. C. Echeruo](https://www.amazon.com/Igbo-English-Dictionary-Comprehensive-Language-English-Igbo/dp/0300073070)
-* Akubue1: [Cow Without Tail, Book 1](https://books.google.com/books?id=CBK7REawuoEC&pg=PA223), Godwin Boswell Akubue
+"Addressing people" and later in https://wikitravel.org/en/Igbo_phrasebook
+

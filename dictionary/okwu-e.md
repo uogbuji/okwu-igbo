@@ -1,6 +1,6 @@
+# e
 
-
-# égbé
+## égbé
 
 1. kite or hawk, term used for any of many species of predatory bird
 2. West African black kite [Milvus migrans]
@@ -8,7 +8,7 @@
 * cite: Echeruo-IED
 * tag: ńnụ̀nụ
 
-# énéké
+## énéké
 
 swift or swallow [bird], also énéké-ńtị̀-ọ́ba ("énéké-of-flabby-ears")
 
@@ -18,11 +18,41 @@ swift or swallow [bird], also énéké-ńtị̀-ọ́ba ("énéké-of-flabby-ears"
 * note: énéké is a name of a variety of cloth prints popular in Igboland with images of the swallow in flight
 * tag: ńnụ̀nụ
 
-# énéké-ńtị̀-ọ́ba
+## énéké-ńtị̀-ọ́ba
 
 see: eneke
 
-# éwélé
+## Énú Ụ́gwụ́
+
+n.
+
+Town of Enugu, lit. height or top of the hill
+
+* tag: ńnụ̀nụ
+
+## ényí
+
+n.
+
+elephant
+
+## épè
+
+n.
+
+orange; orange tree
+
+* cite: Echeruo-IED
+
+## épè ńkị́sị́rị́
+
+n.
+
+lime; lime tree
+
+* cite: Echeruo-IED
+
+## éwélé
 
 1. luck; good fortune
 
