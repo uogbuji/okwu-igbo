@@ -55,8 +55,12 @@ lucky destiny; good fortune
 spirit of the indigenous igbo religion
 
 * var: [onitsha] álụ́sị́
-    * cite: Echeruo-IED
+  * cite: Echeruo-IED
 * tag: árụ́sị́
+
+## anagba
+
+anklet; bracelet
 
 ## ánụ̀nụ̀
 

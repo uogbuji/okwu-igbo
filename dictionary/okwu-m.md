@@ -22,6 +22,20 @@ n. town, city, country, foreign lands, abroad
 
 * cite: [Wiki-IP]
 
+## ḿḿadụ́
+
+n.
+
+person; human being
+
+## m̀ḿanwụ́
+
+n.
+
+masquerade; masked performer representing a spirit entity
+
+* variant: m̀ḿụ́ọ́
+
 ## ḿmírí
 
 n. water
