@@ -1,5 +1,22 @@
 # n
 
+ń Ń ǹ Ǹ
+
+## Ṇ́dị́ Ìgbò
+
+n.
+
+Igbo people
+
+## ǹdó
+
+1. Expression of condolence
+
+
+## ńkị́tị́
+
+
+
 ## ńnụ̀nụ̀
 
 1. bird, especially of a smaller variety

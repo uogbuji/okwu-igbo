@@ -22,6 +22,12 @@ n. town, city, country, foreign lands, abroad
 
 * cite: [Wiki-IP]
 
+## mgbolodi
+
+n.
+
+* waterleaf https://detoronaturals.wordpress.com/2016/01/09/waterleaf-talinum-fruticosum/
+
 ## ḿḿadụ́
 
 n.

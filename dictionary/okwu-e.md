@@ -8,6 +8,21 @@
 * cite: Echeruo-IED
 * tag: ńnụ̀nụ
 
+## ékwé
+
+Wooden slіt drum, usually from a hollowed out tree bole. Key instruments used during community events.
+
+## éló
+
+n.
+
+mushroom
+
+* var: élúé
+* note: èbùbè is a particular kind of mushroom
+* éló atákàtá ("chewing mushroom" on account of its chewy toughness) seems to be Lentinus squarrosulus, which is also used medicinally for treating mumps, heart diseases, anaemia, infertility in both men and woman, and in healing newborn baby navels.
+  * ref: "Exploring the ethnomycological potential of Lentinus squarrosulus Mont. through GC–MS and chemoinformatics tools" doi: 10.1080/21501203.2019.1707724
+
 ## énéké
 
 swift or swallow [bird], also énéké-ńtị̀-ọ́ba ("énéké-of-flabby-ears")
@@ -35,6 +50,12 @@ Town of Enugu, lit. height or top of the hill
 n.
 
 elephant
+
+## ènyò
+
+n.
+
+mirror
 
 ## épè
 

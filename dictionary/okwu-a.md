@@ -4,7 +4,13 @@
 
 n.
 
-bush cat
+bush cat. cf. ágwátá
+
+## ágwátá
+
+n.
+
+bush cat. cf. ábụ́
 
 ## ágwọ́
 
@@ -42,6 +48,12 @@ black cobra, very poisonous snake [Naja melanoleuca Hall]
 
 * tag: árụ́sị́
 
+## ákátá
+
+Loan word (from Yoruba?) literally meaning a cat that lives in the wild. Igbo equivalent c.f. ábụ́ or ákátá
+
+Non-African black person, 
+
 ## ákàrà áká
 
 lucky destiny; good fortune
@@ -49,14 +61,6 @@ lucky destiny; good fortune
 * cite: Echeruo-IED
 * seealso: éwélé
 * ety: literally "lines on the palm"
-
-## árụ́sị́
-
-spirit of the indigenous igbo religion
-
-* var: [onitsha] álụ́sị́
-  * cite: Echeruo-IED
-* tag: árụ́sị́
 
 ## anagba
 
@@ -66,6 +70,25 @@ anklet; bracelet
 
 see: ńnụ̀nụ
 
+## ányá ńnụ̀nụ̀
+
+n.
+
+crab's eye, love bean, lucky bean. Woody twining plant with characteristic red and black seeds.
+
+## ányánwụ̀
+
+n.
+
+sun
+
+## árụ́sị́
+
+spirit of the indigenous igbo religion
+
+* var: [onitsha] álụ́sị́
+  * cite: Echeruo-IED
+* tag: árụ́sị́
 
 ## ásụ̀sụ̀
 

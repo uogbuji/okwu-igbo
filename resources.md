@@ -12,3 +12,5 @@ Useful links
 * [Okwu ID (Igbo Youth) YouTube](https://www.youtube.com/channel/UClA332lBOZ7d3JeEmEtN5iA)
 * [BBC Igbo](https://www.bbc.com/igbo/)
 * [Igbo Music Project](https://igbomusicproject.wordpress.com/)
+* [Handbook of African Medicinal Plants by Maurice M. Iwu](https://www.routledgehandbooks.com/doi/10.1201/b16292-4)
+

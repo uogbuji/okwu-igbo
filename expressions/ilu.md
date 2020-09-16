@@ -38,4 +38,4 @@
 * source: Njoku, J. Akuma-Kalu. "There's Got To Be A Tortoise In It": Lore As The Conceptual Focus Of Igbo Folklore." Southern Quarterly 46.4 (2009): 159-172. Academic Search Premier. Web. 4 Sept. 2016.
 
 
-
+https://twitter.com/IgboProverbs_/status/1278935548166656000

@@ -1,10 +1,24 @@
 # o
 
+ò Ò ó Ó ọ Ọ ọ̀ Ọ̀ ọ́ Ọ́
+
 ## ò
 
 pronoun for animate and inanimate objects; "he", "she", "it"
 
 * cite: [Wiki-IP]
+
+## óbì
+
+n.
+
+Chest; heart
+
+## òbí
+
+n.
+
+Main part of a man's compound, of the family home.
 
 ## ógù
 
@@ -17,6 +31,26 @@ n.
 * e ji m ógù—my conscioence is clear
 * var: ógùgù
 * cite: Echeruo-IED|1998ed,p.134
+
+## ògéné
+
+Gong traditionally made from bronze, with two thin bells of slightly diferent width connected by a short, U-shaped rod, so the bells lie side to side and can be beaten alternately to produce a two-tone.
+
+## òkpó
+
+n.
+
+shrine; place of worship
+
+* variant: òkwó
+
+## òkpù
+
+n.
+
+Libation cup, typically made from animal horn
+
+Family shrins
 
 ## òkwè
 
@@ -45,6 +79,18 @@ staff; cane
 adj.
 
 black; very dark
+
+## òkìkè
+
+n.
+
+Large, spiral-cylindrical instrument fashioned from elephant tusk, considered a high society instrument.
+
+* note: ọ́dụ́ or ọ́dụ́ mkpálò is basically a much smaller òkìkè
+
+## ònúgbù
+
+bitterleaf, i.e. Vernonia amygdalina, a perennial shrub, or the leaves therefrom
 
 ## ósè
 
@@ -76,6 +122,12 @@ n.
 Hippopotamus (also ùtòbò or ényí ḿmírí)
 
 # ọ
+
+## ọ́dụ́
+
+n.
+
+elephant tusk, ivory.
 
 ## ọ̀fọ́
 
@@ -114,11 +166,12 @@ n.
 
 ## ọha
 
-community (also ọha)
+* var: 
+community (also ọra)
 
 ## ọ̀jà
 
-flute of hollowed reed with cut holes
+flute of hollowed wood or occasionally reed with usually two fingering holes cut in order to allow a two-tone
 
 ## ọ́jị́
 
@@ -144,6 +197,8 @@ kola nut tree species less common in Igboland; fruit thereof [Cola nitida]
 
 iroko tree [Chlorophora excelsa]
 
+* note: "ìrókò" is the Yoruba name
+
 ## ọ́jị̀ ánwụ́
 
 hardwood lumber tree [Antiaris africana]. Empirically similar to iroko.
@@ -165,8 +220,28 @@ n.
 
 Priapic demon of the Owere area, usually included in Mbari houses as a part man, part chimpanzee with large, spiky penis and bearing stony dried fruit of the ǹgú vine. This spirit traditionally besets the lazy and careless, attacking men by stoning them with the seeds it bears, and attacking women by raping them. The moral of Ọ̀kpàngú stories is to encourage industry and prevent people from leaving children by fire or bodies of water, or from wandering forest paths alone at night.
 
+
+## ọ́kwụ̀lụ̀ 
+
+n.
+
+ókrò, okra. Abelmoschus esculentus (L.) Moench. Important food staple and medicine plant. Immature fruits, fresh or sliced and dried, are used for soups or fried in oil. Leaves are used as a potherb. Young shoots used in soups.
+
+* note: ethnomedicinal use: "The mucilage is used medicinally and technically as an industrial raw material. A decoction of the immature okra fruits is demulcent, diuretic, and emollient. It is also used in the treatment of catarrhal infections, ardor urinae, dysuria, and gonorrhea. It has been used as a plasma replacement or blood volume expander. The seeds usually obtained from mature and hard capsules are antispasmodic, cordial, and stimulant. An infusion of the roasted seeds has sudorific properties. Leaves are sometimes used as a basis for poultices; as an emollient, sudorific or antiscorbutic; and to treat dysuria."
+  * ref: Handbook of African Medicinal Plants
+
+
 ## ọlị́à
 
 int.
 
 hello
+
+## ọ̀wụ́wá ányánwụ́
+
+n.
+
+sunrise; east
+
+* note: Famous song by Sonny Nwamama. Chúkwú gọ̀zíé Biafra ébéé ọ̀wụ́wá ányánwụ́ sí a bị̀á
+
