@@ -1,3 +1,5 @@
+Only ch. English's hard c sound is written as k in Ìgbò, in all cases
+
 # ch
 
 ## Chí
@@ -27,3 +29,19 @@ Chi Symbolism as a Potent Mirror of Igbo Indigenous Worldview
 Christopher I. Ejizu
 Anthropos
 Bd. 87, H. 4./6. (1992)
+
+## chọ́ọ́
+
+v.
+
+seek; desire; search for (including in software)
+
+* example: chọ́ọ́ ókwú Ìgbò—search for an Igbo word; but note: chọ́ọ́ ókwú means to make (i.e. seek) trouble
+  * source: https://www.igbopedia.live/
+
+## chọ́ọ́ ńtá
+
+v. hunt (for game)
+
+note: Echeruo has this as chụ́ọ́ ńtá
+

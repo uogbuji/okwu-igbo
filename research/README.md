@@ -4,6 +4,7 @@ Formal citation sources
 * Echeruo-IED: [Igbo-English dictionary, Professor Michael J. C. Echeruo](https://www.amazon.com/Igbo-English-Dictionary-Comprehensive-Language-English-Igbo/dp/0300073070)
 * Akubue1: [Cow Without Tail, Book 1](https://books.google.com/books?id=CBK7REawuoEC&pg=PA223), Godwin Boswell Akubue
 * [Wiki-IP](https://wikitravel.org/en/Igbo_phrasebook)
+* [igbotique-dict](https://www.igbotique.com/dict/ig)
 
 Useful links
 
@@ -13,4 +14,5 @@ Useful links
 * [BBC Igbo](https://www.bbc.com/igbo/)
 * [Igbo Music Project](https://igbomusicproject.wordpress.com/)
 * [Handbook of African Medicinal Plants by Maurice M. Iwu](https://www.routledgehandbooks.com/doi/10.1201/b16292-4)
+* [Navajo Times New Roman font](http://www.courts.navajo-nsn.gov/navfonts.htm)
 

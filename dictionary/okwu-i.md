@@ -49,6 +49,14 @@ n.
 
 owl
 
+## ílú
+
+n.
+
+proverb
+
+* eg: ílú maka ihe—proverb about something
+
 # ị
 
 ## ị̀chàkà

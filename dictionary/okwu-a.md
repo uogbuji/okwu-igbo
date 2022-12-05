@@ -4,13 +4,13 @@
 
 n.
 
-bush cat. cf. ágwátá
+bush cat. see: ágwátá, ákátá
 
 ## ágwátá
 
 n.
 
-bush cat. cf. ábụ́
+bush cat. see: ábụ́, ákátá
 
 ## ágwọ́
 
@@ -50,9 +50,9 @@ black cobra, very poisonous snake [Naja melanoleuca Hall]
 
 ## ákátá
 
-Loan word (from Yoruba?) literally meaning a cat that lives in the wild. Igbo equivalent c.f. ábụ́ or ákátá
+Non-African black person.
 
-Non-African black person, 
+Loan word (from Yoruba?) literally meaning a cat that lives in the wild. (Igbo equivalent: ábụ́ or ágwátá)
 
 ## ákàrà áká
 
@@ -61,6 +61,24 @@ lucky destiny; good fortune
 * cite: Echeruo-IED
 * seealso: éwélé
 * ety: literally "lines on the palm"
+
+## ákwụ́
+
+n. also ńkwụ́
+
+palm tree; palm kernel
+
+## ákwụ́kwọ́
+
+n.
+
+leaf, paper, book, studies
+
+## álọ́ọ́
+
+n. also álụ́lọ́
+
+umbilical cord
 
 ## anagba
 

@@ -92,6 +92,12 @@ Large, spiral-cylindrical instrument fashioned from elephant tusk, considered a 
 
 bitterleaf, i.e. Vernonia amygdalina, a perennial shrub, or the leaves therefrom
 
+## ónyé chọ́ọ́ ńtá égó
+
+n. entrepreneur
+
+related: ńtá égó; chọ́ọ́ ńtá égó
+
 ## ósè
 
 n.
@@ -164,10 +170,13 @@ n.
 
 * cite: Echeruo-IED|1998ed,p.135
 
-## ọha
+## ọ̀hà
 
-* var: 
-community (also ọra)
+n.
+
+community
+
+* var: ọ̀rà
 
 ## ọ̀jà
 
@@ -192,12 +201,14 @@ kola nut tree; kola nut fruit [Cola acuminata]
 kola nut tree species less common in Igboland; fruit thereof [Cola nitida]
 
 * note: gworo comes from "gworo", the Hausa word for kola fruit. ọ́jị́ gworo fruit is restricted to one or two cotelydons, and it's more bitter. See the Manu Dibango song "Goro City".
+* cite: [Twitter thread from @ukpuru](https://twitter.com/ukpuru/status/989952988226703360)
 
 ## ọ́jị̀
 
-iroko tree [Chlorophora excelsa]
+iroko tree [Chlorophora excelsa, Milicia excelsa]
 
-* note: "ìrókò" is the Yoruba name
+* note: "ìrókò" is a Yoruba corruption of the Ẹ̀sán name ùlókò
+  * cite: https://en.wikipedia.org/wiki/Esan_people
 
 ## ọ́jị̀ ánwụ́
 
@@ -220,6 +231,17 @@ n.
 
 Priapic demon of the Owere area, usually included in Mbari houses as a part man, part chimpanzee with large, spiky penis and bearing stony dried fruit of the ǹgú vine. This spirit traditionally besets the lazy and careless, attacking men by stoning them with the seeds it bears, and attacking women by raping them. The moral of Ọ̀kpàngú stories is to encourage industry and prevent people from leaving children by fire or bodies of water, or from wandering forest paths alone at night.
 
+## ọ̀kụ́kọ̀
+
+n.
+
+chicken
+
+## ọ̀kwà
+
+n.
+
+guinea fowl
 
 ## ọ́kwụ̀lụ̀ 
 
@@ -231,11 +253,43 @@ n.
   * ref: Handbook of African Medicinal Plants
 
 
+
+
 ## ọlị́à
 
 int.
 
 hello
+
+## ọ̀lọ̀má
+
+n.
+
+West African Cherry Orange; Citrus articulata. Round yellow to orange fruit of any of several citrus trees
+
+## ọ́nwá
+
+n.
+
+moon
+
+## ósísí
+
+n. also óshíshí
+
+stick; wood; plant; tree
+
+## ọ̀tọ́
+
+n.
+
+nakedness
+
+## ọ̀tụ̀rụ̀kpọ́kpọ́
+
+n.
+
+woodpecker
 
 ## ọ̀wụ́wá ányánwụ́
 

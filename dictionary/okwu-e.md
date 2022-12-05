@@ -1,5 +1,25 @@
 # e
 
+## échìchè
+
+thought; cogitation; idea; plan
+
+## égó
+
+n.
+
+money; payment
+
+* note: covers currencies from cowries through to modern cash and credit, refers to the uncountable as well as individual cowries, coins or bills.
+
+## égó kị́rị́kị́rị́
+
+n.
+
+small change; coins or cowries
+
+* cite: Echeruo
+
 ## égbé
 
 1. kite or hawk, term used for any of many species of predatory bird
@@ -7,6 +27,14 @@
 
 * cite: Echeruo-IED
 * tag: ńnụ̀nụ
+
+## ekéné
+
+n.
+
+greeting
+
+* eg: ị kwe ekéné—to exchange greetings
 
 ## ékwé
 
@@ -20,7 +48,7 @@ mushroom
 
 * var: élúé
 * note: èbùbè is a particular kind of mushroom
-* éló atákàtá ("chewing mushroom" on account of its chewy toughness) seems to be Lentinus squarrosulus, which is also used medicinally for treating mumps, heart diseases, anaemia, infertility in both men and woman, and in healing newborn baby navels.
+* note: éló atákàtá ("chewing mushroom" on account of its chewy toughness) seems to be Lentinus squarrosulus, which is also used medicinally for treating mumps, heart diseases, anaemia, infertility in both men and woman, and in healing newborn baby navels.
   * ref: "Exploring the ethnomycological potential of Lentinus squarrosulus Mont. through GC–MS and chemoinformatics tools" doi: 10.1080/21501203.2019.1707724
 
 ## énéké
